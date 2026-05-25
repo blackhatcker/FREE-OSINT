@@ -1,0 +1,22 @@
+FreeOSINT.org
+
+Copyright 2026 FreeOSINT.org contributors.
+
+This repository uses a split-license model:
+
+1. Software code, scripts, configuration files, deployment files, and automation files:
+   Apache License 2.0.
+
+2. Educational content, documentation, modules, templates, reports, written guides,
+   and learning materials:
+   Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+3. Names, logos, marks, visual identity, branding, and official domain references:
+   All Rights Reserved unless written permission is granted.
+
+FreeOSINT.org is an educational project. It does not authorize unlawful access,
+surveillance, harassment, doxxing, privacy invasion, credential theft, or misuse
+of OSINT techniques.
+
+Third-party names, tools, datasets, APIs, services, and trademarks belong to
+their respective owners.
